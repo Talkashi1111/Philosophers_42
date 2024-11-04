@@ -33,7 +33,7 @@ Both systems support the multithreaded operations required by this project, alth
 
 to install, clone the project first:
 ```bash
-git clone https://github.com/yourusername/dining-philosophers.git
+git clone git@github.com:Talkashi1111/Philosophers_42.git
 ```
 than enter to the repository cloned and type :
 ```bash
